@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Diskret Tuzilmalar: Algoritmlar Masteri",
+  "description": "Islomov Baxrom va Inomiddinov Asadxoja tomonidan yaratilgan interaktiv algoritmlar o\u0027quv dasturi.",
+  "TargetFile": "/metadata.json",
+  "Overwrite": true,
+  "toolAction": "Editing file",
+  "toolSummary": "File edit"
+}
